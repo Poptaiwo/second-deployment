@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+}
+.mail{
+    padding-right: 100px;
+}
+.pass{
+    padding-right: 100px;
+}
+.first{
+    padding-right: 100px;
+}
+.last{
+    padding-right: 100px;
+}
+.submit{
+    padding: 10px;
+    border-radius: 50px;
+    transition: 2s;
+}
+.submit:hover{
+    background-color: red;
+}
