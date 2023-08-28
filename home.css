@@ -1,8 +1,23 @@
 body{
-    background-color: black;
+    background-color: #cb8007;
 }
 h1{
-
-    color: blue;
-    font-size: 100px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 50px;
+    margin-top: 5rem;
+    color: black;
+}
+#offcanvasdarknavbarlabel{
+    font-size: 80px;
+    font-weight: bold;
+}
+.navbar-brand{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.taiwo{
+    color: red;
 }
