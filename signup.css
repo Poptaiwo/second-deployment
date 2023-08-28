@@ -41,17 +41,18 @@ form input{
     text-decoration: none;
     color: black;
 }
-button{
+button a{
     font-size: 1.1rem;
     margin-top: 1rem;
-    padding: 8px 0;
+    padding: 8px;
     border-radius: 5px;
     outline: none;
     border: none;
-    width: 85%;
+    /* width: 100px; */
     background: rgb(133, 53, 53);
     color: #fff;
     cursor: pointer;
+    text-decoration: none;
 }
 .or{
     font-size: 0.8rem;
